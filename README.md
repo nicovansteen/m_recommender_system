@@ -145,6 +145,6 @@ It’s a great project if you're interested in recommender systems, data pipelin
 
 ---
 
-## 🏅 Credits
+## Credits
 
 *This project was created by Nico Van Steen as part of the Syntra AB Data Scientist course, supervised by Tim Hellemans.*

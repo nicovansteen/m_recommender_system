@@ -1,6 +1,6 @@
-# 🎬 Movie Recommender System (by using a Streamlit App)🎬 
+# Movie Recommender System (by using a Streamlit App) 
 
-## 📝 Summary
+## Summary
 
 This project involves building a ** movie recommender system** as a Streamlit web app. It recommends movies to both new and existing users based on a combination of **content-based filtering**, **collaborative filtering**, and **popularity-based models**. The app uses real-world movie datasets and offers filtering options, poster visuals, and user session handling.
 
@@ -8,7 +8,7 @@ It’s a great project if you're interested in recommender systems, data pipelin
 
 ---
 
-## 🖼️ Screenshots of Streamlit app
+## Screenshots of Streamlit app
 
 ### Welcome page
 
@@ -24,7 +24,7 @@ It’s a great project if you're interested in recommender systems, data pipelin
 
 ---
 
-## 🧰 Which technologies & tools to use?
+## Which technologies & tools to use?
 
 ### Language
 - **Python** 
@@ -46,7 +46,7 @@ It’s a great project if you're interested in recommender systems, data pipelin
 
 ---
 
-## 🧠 The different approaches to make predictions
+## The different approaches to make predictions
 
 ### Content-Based Filtering
 - Recommends movies based on similarity in **actors**, **genres**, **directors**, **writers**, and **producers**.
@@ -66,7 +66,7 @@ It’s a great project if you're interested in recommender systems, data pipelin
 - Allows more robust and accurate recommendations, especially for users with some but not many ratings.
 ---
 
-## 🗂️ Data Sources
+## Data Sources
 
 - [IMDB Datasets](https://www.imdb.com/interfaces/)
 - [TMDB API](https://developer.themoviedb.org/docs) 
@@ -120,7 +120,7 @@ It’s a great project if you're interested in recommender systems, data pipelin
 
 ---
 
-## 👤 Features for Users
+## Features for Users
 
 - **New Users:** Choose up to 3 favorite movies, get content-based recommendations  
 - **Existing Users:** See past ratings, get collaborative and hybrid suggestions  
@@ -130,7 +130,7 @@ It’s a great project if you're interested in recommender systems, data pipelin
 
 ---
 
-## 💡 Why you should use this topic?
+## Why you should use this topic?
 
 - Interesting application of machine learning
 - End-to-end project experience: data import, cleaning , modeling and deployment. 
@@ -138,7 +138,7 @@ It’s a great project if you're interested in recommender systems, data pipelin
 
 ---
 
-## 🧩 Tips
+## Tips
 
 - Use `.joblib` to save time when loading large datasets
 - Explore [Streamlit Docs](https://docs.streamlit.io/) for faster UI development

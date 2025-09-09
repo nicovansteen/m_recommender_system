@@ -75,7 +75,7 @@ It’s a great project if you're interested in recommender systems, data pipelin
 
 ---
 
-## 🛠️ Project Structure Overview
+## Project Structure Overview
 
 ### Data prep. notebooks
 - Multiple Jupyter notebooks for **cleaning**, **merging**, and **enriching** data from
